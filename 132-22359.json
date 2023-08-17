@@ -1,0 +1,220 @@
+{
+    "fecha": "04/07/2023",
+    "hora": "01:36 PM",
+    "numeroConsulta": "458470467",
+    "circulo": "132",
+    "numeroMatricula": "22359",
+    "referenciaCatastral": "00-01-0005-0038-000",
+    "departamento": {
+        "id": "19",
+        "nombre": "CAUCA"
+    },
+    "municipio": {
+        "id": 19698,
+        "nombre": "SANTANDER DE QUILICHAO"
+    },
+    "vereda": "SANTANDER DE QUILICHAO",
+    "direccion": "LT DE TERRENO",
+    "direccionesAnteriores": [],
+    "fechaAperturaFolio": "04/12/1991",
+    "tipoInstrumento": "CERTIFICADO",
+    "fechaInstrumento": "04/12/1991",
+    "estadoFolio": "ACTIVO",
+    "matriculasMatriz": [],
+    "matriculasDerivadas": [
+        "132-40235"
+    ],
+    "tipoPredio": "R",
+    "propietarios": [],
+    "complementaciones": "PRIMERO.- REGISTRO DEL 30 DE SEPTIEMBRE DE 1933 ESCRITURA 130 DEL 28 DE SEPTIEMBRE DE 1933 DE LA NOTARIA DE SANTANDER, COMPRAVENTA MODO DE ADQUISICION, DE; ACOSTA RICARDO, A; ACOSTA PERAFAN ARTURO ALFONSO, ALEJANDRO, MARIO, RAFAEL, ABDON, Y NIBARDO. REGISTRO EN EL LIBRO 1 N. 252,FOLIO 24,TOMO 5 DE 1933.",
+    "linderos": "LOTE DE TERRENO DE UNA EXTENSION SUPERFICIARIA DE 1 HTA. 9200 MTS2. COMPRENDIDO DENTRO DE LOS LINDEROS QUE SE PUEDEN VER EN LA ESCRITURA 674 DEL 26 DE DICIEMBRE DE 1973 DE LA NOTARIA DE SANTANDER. CON BASE EN LIBRO 1 N. 260,FOLIO 236,TOMO 43.",
+    "salvedades": [],
+    "consulta": "458470480",
+    "textoAnotaciones": [
+        "ANOTACION: Nro 1 Fecha: 26-12-1973 Radicación: SN<br>Doc: ESCRITURA 674 DEL 1973-12-26 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $1.000<br/>ESPECIFICACION: 101 COMPRAVENTA  (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: ACOSTA PERAFAN ARTURO A.             <br/>DE: ACOSTA PERAFAN ALEJANDRO             <br/>DE: ACOSTA PERAFAN MARIO      CC 2717037       <br/>DE: ACOSTA PERAFAN RAFAEL             <br/>DE: ACOSTA PERAFAN ABDON             <br/>DE: ACOSTA PERAFAN NIBARDO             <br/>A: GUZAMAN JULIO CESAR    X   ",
+        "ANOTACION: Nro 2 Fecha: 21-05-1997 Radicación: 1997-132-6-1238<br>Doc: SENTENCIA 897 DEL 1997-03-04 00:00:00  JDO.1.C.MUPAL DE STDER DE QUILICHAO          VALOR ACTO: $500.000<br/>ESPECIFICACION: 150 ADJUDICACION EN SUCESION  (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GUZMAN GUACALES JULIO CESAR             <br/>A: GUZMAN ACOSTA AURA   CC 34609714 X   <br/>A: GUZMAN ACOSTA MARIA CECILIA   CC 34607380 X   ",
+        "ANOTACION: Nro 3 Fecha: 30-09-1997 Radicación: 1997-132-6-2744<br>Doc: ESCRITURA 1625 DEL 1997-08-16 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $200.000<br/>ESPECIFICACION: 611 C/VENTA DE CUERPO CIERTO SIENDO DERECHOS DE CUOTA  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GUZMAN ACOSTA MARIA CECILIA      CC 34607380       <br/>A: LOPEZ CASTRO GLORIA DEL CARMEN   CC 32494080    ",
+        "ANOTACION: Nro 4 Fecha: 22-02-2000 Radicación: 2000-132-6-3758<br>Doc: ESCRITURA 118 DEL 2000-01-29 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0146 RATIFICACION COMPRAVENTA DERECHOS ESCRITURA # 1625 DEL 16-08-1997 NOT. S/DER (PREDIO DE 2.960 MTS2) (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GUZMAN ACOSTA AURA      CC 34609714       <br/>A: LOPEZ CASTRO GLORIA DEL CARMEN   CC 32494080    "
+    ],
+    "arbolAnotaciones": [
+        {
+            "label": "RATIFICACION CONTRATO",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 4",
+                    "children": [
+                        {
+                            "label": "Fecha: 22/02/2000"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2000-132-6-3758"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 118 DEL 2000-01-29 00:00:00  NOTARIA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "RATIFICACION COMPRAVENTA DERECHOS ESCRITURA # 1625 DEL 16-08-1997 NOT. S/DER (PREDIO DE 2.960 MTS2) (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GUZMAN ACOSTA AURA  <pre>      </pre>CC 34609714<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: LOPEZ CASTRO GLORIA DEL CARMEN  <pre>      </pre>CC 32494080<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "ENAJENAMIENTO CUERPO CIERTO SOLO DERECHO CUOTA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 3",
+                    "children": [
+                        {
+                            "label": "Fecha: 30/09/1997"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1997-132-6-2744"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1625 DEL 1997-08-16 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 200.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "C/VENTA DE CUERPO CIERTO SIENDO DERECHOS DE CUOTA  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GUZMAN ACOSTA MARIA CECILIA  <pre>      </pre>CC 34607380<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: LOPEZ CASTRO GLORIA DEL CARMEN  <pre>      </pre>CC 32494080<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "COMPRAVENTA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 1",
+                    "children": [
+                        {
+                            "label": "Fecha: 26/12/1973"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: SN"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 674 DEL 1973-12-26 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 1.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA  (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: ACOSTA PERAFAN ARTURO A.  <pre>      </pre><pre>      </pre>   DE: ACOSTA PERAFAN ALEJANDRO  <pre>      </pre><pre>      </pre>   DE: ACOSTA PERAFAN MARIO  <pre>      </pre>CC 2717037<pre>      </pre>   DE: ACOSTA PERAFAN RAFAEL  <pre>      </pre><pre>      </pre>   DE: ACOSTA PERAFAN ABDON  <pre>      </pre><pre>      </pre>   DE: ACOSTA PERAFAN NIBARDO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUZAMAN JULIO CESAR  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "ADJUDICACION EN SUCESION",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 2",
+                    "children": [
+                        {
+                            "label": "Fecha: 21/05/1997"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1997-132-6-1238"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "SENTENCIA 897 DEL 1997-03-04 00:00:00  JDO.1.C.MUPAL DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 500.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ADJUDICACION EN SUCESION  (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GUZMAN GUACALES JULIO CESAR  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUZMAN ACOSTA AURA  <pre>      </pre>CC 34609714<pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: GUZMAN ACOSTA MARIA CECILIA  <pre>      </pre>CC 34607380<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

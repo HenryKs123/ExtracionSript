@@ -1,0 +1,602 @@
+{
+    "fecha": "17/01/2023",
+    "hora": "02:03 PM",
+    "numeroConsulta": "400782194",
+    "circulo": "160",
+    "numeroMatricula": "43703",
+    "departamento": {
+        "id": "25",
+        "nombre": "CUNDINAMARCA"
+    },
+    "municipio": {
+        "id": 530,
+        "nombre": "PARATEBUENO"
+    },
+    "vereda": "JAPON",
+    "direccion": "PREDIO RURAL LOTE B",
+    "direccionesAnteriores": [],
+    "fechaAperturaFolio": "28/04/2009",
+    "tipoInstrumento": "ESCRITURA",
+    "fechaInstrumento": "27/04/2009",
+    "estadoFolio": "ACTIVO",
+    "matriculasMatriz": [
+        "160-1870"
+    ],
+    "matriculasDerivadas": [
+        "160-53110"
+    ],
+    "tipoPredio": "RURAL",
+    "propietarios": [],
+    "complementaciones": "LOS VENDEDORES LAUREANO GOMEZ PINEDA Y MARIANA SIERRA DE GOMEZ, ADQUIRIERON ESTE PREDIO CON MAYOR EXTENSION POR COMPRA DE DERECHOS DE CUOTA ASI:UN DERECHO POR COMPRA QUE HICIERON EN COMUN Y PROINDIVISO AL SE\\OR JORGE ARTURO CRUZ CARRILLO MEDIANTE ESCRITURA # 769 DEL 2 DE MARZO DE 1998 NOTARIA SEGUNDA DE VILLAVICENCIO ,REGISTRADA EL 21 DE ABRIL DE 1998 AL FOLIO DE MATRICULA INMOBILIARIA # 160-0001870 .-\n2.- Y OTROS TRES DERECHOS POR COMPRA QUE HIZO AL SE\\OR LAUREANO GOMEZ PINEDA ASI:POR COMPRA HECHA A LUZ ANGELA RODRIGUEZ VELEZ POR ESCRITURA # 3048 DEL 22 DE JULIO DE 1999 NOTARIA PRIMERA DE VILLAVICENCIO,REGISTRADA EL 2 DE SEPTIEMBRE DE 1999; OTRA POR COMPRA HECHA A INVERSIONES CASTELLO LIMITADA POR ESCRITURA # 4264 DEL 4 DE OCTUBRE DEL 2001DE LA NOTARIA PRIMERA DE VILLAVICENCIO, REGISTRADA EL 8 DE NOVIEMBRE DEL 2001  Y OTRA POR COMPRA A FRANCISCO AGUILAR BELTRAN, POR ESCRITURA # 2013 DEL 26 DE ABRIL DEL 2002 NOTARIA PRIMERA VILLAVICENCIO, REGISTRADA EL 31 DE MAYO DEL 20902 AL FOLIO DE MATRICULA INMOBILIARIA # 160-001870 &quot;EL JAPON&quot;.LOS COMUNEROS FRANCISCO AGUILAR BELTRAN , LUZ ANGELA RODRIGUEZ VELEZ Y LA SOCIEDAD INVERSIONES CASTELLO LIMITADA Y JORGE ARTURO CRUZ CARRILLO, ADQUIRIERON SUS DERECHOS ASI: EL COMUNERO FRANCISCO AGUILAR BELTRAN POR COMPRA QUE HIZO DE TRES DERECHOS DE CUOTA ASI: PARTE POR COMPRA A LUCIA RODRIGUEZ RODRIGUEZ EN COMUN Y PROINDIVISO CON FABIO ANTONIO RIVEROS CASTILLO SEGUN CONSTA EN LA ESCRITURA # 1600 DEL 14 DE AGOSTO DE 1986 NOTARIA SEGUNDA DE VILLAVICENCIO ,REGISTRADA EL 14 DE AGOSTO DE 1986 ; PARTE POR COMPRA QUE HICIERA A FABIO ANTONIO RIVEROS CASTILLO MEDIANTE ESCRITURA # 1186 DEL 17 DE MAYO DE 1988 NOTARIA SEGUNDA DE VILLAVICENCIO, REGISTRADA EL 21 DE JUNIO DE 1988 Y PARTE POR COMPRA QUE HICERA AL SE\\OR JORGE RODRIGUEZ RODRIGUEZ SEGUN CONSTA EN LA ESCRITURA # 1411 DEL 26 DE MAYO DE 1989 NOTARIA SEGUNDA DE VILLAVFICENCIO , REGISTRADA EL 21 DE JULIO DE 1989 AL FOLIO DE MATRICULA # 160-0001870.-\n2.-LA SOCIEDAD INVERSIONES CASTELLO LIMITADA ,ADQUIRIO LA CUOTA PARTE DEL INMUEBLE POR COMPRA QUE HIZO A FABIO ANTONIO RIVEROS CASTILLO , RAFAEL EDUARDO RIVEROS CASTILLO Y JOSE MIGUEL RIVEROS CASTILLO POR ESCRITURA # 1717 DE 4 DE JULIO DE 1996 NOTARIA VEINTIDOS DE BOGOTA ,REGISTRADA EL 4 DE SEPTIEMBRE DE 1996 AL FOLIO DE MATRICULA INMOBILIARIA # 160-0001870.-\n3.- LA VENDEDORA LUZ ANGELA BOLIVAR VELEZ, ADQUIRIO SU DERECHO DE CUOTA POR COMPRA A JORGE RODRIGUEZ RODRIGUEZ, POR ESCRITURA # 5446 DEL 17 DE AGOSTO DE 1995 NOTARIA PRIMERA DE VILLAVICENCIO,REGISTRADA EL 28 DE DICIEMBRE DE 1995 AL FOLIO 16-0001870.-\n4.- JORGE CRUZ CARRILLO ADQUIRIO SU DERECHO DE CUOTA  POR COMPRA QUE HIZO A BLANCA NIEVES ANDRADE  VALENCIA POR ESCRITURA # 3647 DEL 22 DE JULIO DE 1994 NOTARIA SEGUNDA DE VILLAVICENCIO , REGISTRADA EL 19 DE SEPTIEMBRE DE 1994 AL FOLIO DE MATRICULA ANTERIORMENETE CITADO Y OTRO DERECHO POR COMPRA A FRANCISCO AGUILAR BELTRAN POR ESCRITURA # 3648 DEL 22 DE JULIO DE 1994NOTARIA SEGUNDA DE VILLAVICENCIO, REGISTRADA EL 13 DE SEPTIEMBRE DE 1994 AL FOLIO DE MATRICULA # 160-0001870.-\nLOS COMUNEROS BLANCA NIEVES ANDRADE VALENCIA, LUCIA RODRIGUEZ , JORGE RODRIGUEZ RODRIGUEZ, FABIO ANTONIO, RAFAEL EDUARDO Y JOSE MIGUEL RIVEROS CASTILLO , ADQUIRIERON LOS DERECHOS DE CUOTA ASI: LA PRIMERA POR COMPRA QUE HIZO A FRANCISCO AGUILAR BELTRAN POR ESCRITURA # 1574 DEL  27 DE AGOSTO DE 1998 NOTARIA DE ACACIAS, REGISTRADA EL 16 DE SEPTIEMBRE DE 1998 AL FOLIO DE MATRICULA YA ANOTADO. Y LOS OTROS DOS COMUNEROS POR ADJUDICACION QUE SE LES HIZO EN LA PARTICION JUDICIAL DE LOS BIENES DE LA SUCESION DE JOSE MARIA RODRIGUEZ RUBIO SEGUN SENTENCIA DE FECHA AGOSTO 14 DE 1986,DEL JUZGADO TERCERO CIVIL DEL CIRCUITO DE VILLAVICENCIO ,REGISTRADA EL 12 DE FEBRERO DE 1986 AL FOLIO DE MATRICULA CITADO ANTERIORMENTE.-\n4.- FABIO ANTONIO, RAFAEL EDUARDO Y JOSE MIGUEL RIVEROS CASTILLO, ADQUIRIERON SU DERECHO DE CUOTA POR COMPRA QUE HICIERON A LUCIA RODRIGUEZ RODRIGUEZ POR ESCRITURA # 865 DEL 15 DE FEBRERO DE 1986 DELA NOTARIA 29 DE BOGOTA. REGISTRADA EL 27 DE OCTUBRE DE 1989 AL MISMO FOLIO DE MATRICULA CITADO ANTERIORMENTE. -EL CAUSANTE JOSE MARIA RODRIGUEZ RUBIO ADQUIRIO ESTE PREDIO POR COMPRA QUE HIZO A LEONIDAS GONZALEZ GAVIRIA POR ESCRITURA # 1159 DEL 25 DE MAYO DE 1981 NOTARIA PRIMERA DE VILLAVICENCIO, REGISTRADA EL 30 DE JUNIO DE 1981 AL FOLIO DE MATRICULA ANTERIORMENTE CITADO.",
+    "linderos": "Contenidos en ESCRITURA Nro 4698 de fecha 07-12-2005 en NOTARIA TERCERA de VILLAVICENCIO LOTE B con area de 29 HTS 1302.19 M2 (ART.11 DEL DECRETO 1711 DE JULIO 6/1984).",
+    "salvedades": [
+        {
+            "numeroAnotacion": "3",
+            "numeroCorreccion": "1",
+            "fechaSalvedad": "11/12/2015",
+            "radicacionSalvedad": "C2015-100",
+            "descripcion": "SE INCLUYE ANOTACION DEBIDO A QUE SE OMITIO EN LA APERTURA DE LA MATRICULA, ANOTACION CORRESPONDIENTE A LA NUMERO 1 DE ESTE FOLIO, SEGUN TEXTO TITULO SI VALE, ART 59 LEY 1579 DE 2012"
+        },
+        {
+            "numeroAnotacion": "6",
+            "numeroCorreccion": "1",
+            "fechaSalvedad": "14/08/2017",
+            "radicacionSalvedad": "C2017-17",
+            "descripcion": "ANOTACION INCLUIDA VALE, C2017-17. ART. 59 LEY 1579/2012"
+        },
+        {
+            "numeroAnotacion": "6",
+            "numeroCorreccion": "2",
+            "fechaSalvedad": "29/09/2017",
+            "radicacionSalvedad": "C2017-42",
+            "descripcion": "SE CORRIGE COMENTARIO DE LA CORRECCION POR CORRESPONDER   SEGUN TEXTO TITULO SI VALE, ART. 59 LEY 1579 DE 2012."
+        }
+    ],
+    "consulta": "400782065",
+    "textoAnotaciones": [
+        "ANOTACION: Nro 1 Fecha: 27-04-2009 Radicación: 2009-838<br>Doc: ESCRITURA 4698 del 2005-12-07 00:00:00  NOTARIA TERCERA de VILLAVICENCIO          VALOR ACTO: $50.000.000<br/>ESPECIFICACION: 0125 COMPRAVENTA  (COMPRAVENTA)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GOMEZ PINEDA LAUREANO      CC 3292177       <br/>DE: SIERRA DE GOMEZ MARIANA      CC 21237126       <br/>A: PAYAN LEAL VALENTINA    X   ",
+        "ANOTACION: Nro 2 Fecha: 14-01-2015 Radicación: 2015-42<br>Doc: ESCRITURA 5316 del 2014-12-20 00:00:00  NOTARIA TERCERA de VILLAVICENCIO          VALOR ACTO: $9.000.000<br/>ESPECIFICACION: 0125 COMPRAVENTA  (COMPRAVENTA)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: PAYAN LEAL VALENTINA      CC 1020788819       <br/>A: MANRIQUE DWYER DANIEL   CC 80198590 X   ",
+        "ANOTACION: Nro 3 Fecha: 16-09-1998 Radicación: C2015-100<br>Doc: ESCRITURA 1574 del 1998-08-27 00:00:00  NOTARIA de ACACIAS          VALOR ACTO: $<br/>ESPECIFICACION: 323 SERVIDUMBRE DE TRANSITO PASIVA DE OLEODUCTO<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: INVERSIONES CASTELLANO LIMITADA              <br/>A: EMPRESA COLOMBIANA DE PETROLEOS &quot;ECOPETROL&quot;        ",
+        "ANOTACION: Nro 4 Fecha: 03-02-2017 Radicación: 2017-179<br>Doc: OFICIO 646 del 2016-07-11 00:00:00  JUZGADO 001  PROMISCUO  MUNICIPAL DE PARATEBUENO de PARATEBUENO          VALOR ACTO: $<br/>ESPECIFICACION: 0414 DEMANDA EN PROCESO DE SERVIDUMBRES (SOLICITUD ESPECIAL AVALUO DE PERJUICIOS DE SERVIDUMBRE PETROLERA # 255304089001-2016-00030-00. (DEMANDA EN PROCESO DE SERVIDUMBRES)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CENIT TRANSPORTE Y LOGISTICA DE HIDROCARBUROS S.A.S              <br/>A: MANRIQUE DWYER DANIEL   CC 80198590    <br/>A: PAYAN LEAL VALENTINA   CC 1020788819    <br/>A: ZULUAGA CARDONA JUAN GUILLERMO       ",
+        "ANOTACION: Nro 5 Fecha: 20-06-2017 Radicación: 2017-1140<br>Doc: ESCRITURA 1658 del 2017-04-28 00:00:00  NOTARIA PRIMERA de VILLAVICENCIO          VALOR ACTO: $70.000.000<br/>ESPECIFICACION: 0125 COMPRAVENTA  (COMPRAVENTA)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: MANRIQUE DWYER DANIEL      CC 80198590       <br/>A: GONZALEZ CARDONA JHON CARLOS   CC 86055085 X   ",
+        "ANOTACION: Nro 6 Fecha: 02-02-2017 Radicación: C2017-17<br>Doc: ESCRITURA 015 del 2017-02-02 00:00:00  NOTARIA UNICA DE MEDINA de MEDINA          VALOR ACTO: $<br/>ESPECIFICACION: 0123 CESION DE CONTRATO SERVIDUMBRE DE GASODUCTO Y TRANSITO, SEGUN E.P. 1574 DEL 27-08-1998 NOTARIA UNICA DE ACACIAS (CESION DE CONTRATO)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: ECOPETROL S.A.   NIT. 8999990681       <br/>A: TRANSPORTADORA DE GAS INTERNACIONAL S.A. E.S.P.   NIT. 9001344597       ",
+        "ANOTACION: Nro 7 Fecha: 30-12-2019 Radicación: 2019-2847<br>Doc: OFICIO CVOE197392 del 2019-11-28 00:00:00  COVIORIENTE SAS de VILLAVICENCIO          VALOR ACTO: $<br/>ESPECIFICACION: 0454 OFERTA DE COMPRA EN BIEN RURAL PARCIAL (OFERTA DE COMPRA EN BIEN RURAL)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: AGENCIA NACIONAL DE INFRAESTRUCTURA   NIT. 8301259969       <br/>A: GONZALEZ CARDONA JHON CARLOS   CC 86055085 X   ",
+        "ANOTACION: Nro 8 Fecha: 22-09-2020 Radicación: 2020-1161<br>Doc: OFICIO 179 del 2020-09-22 00:00:00  JUZGADO 001  PROMISCUO  MUNICIPAL DE PARATEBUENO de PARATEBUENO          VALOR ACTO: $<br>    Se cancela anotación No: 4<br/>ESPECIFICACION: 0841 CANCELACION PROVIDENCIA JUDICIAL DEMANDA EN PROCESO DE SERVIDUMBRES (CANCELACION PROVIDENCIA JUDICIAL)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CENIT TRANSPORTE Y LOGISTICA DE HIDROCARBUROS S.A.S..   NIT. 9005312103       <br/>A: MANRIQUE DWYER DANIEL   CC 80198590    <br/>A: PAYAN LEAL VALENTINA   CC 1020788819    <br/>A: ZULUAGA CARDONA JUAN GUILLERMO       ",
+        "ANOTACION: Nro 9 Fecha: 09-02-2021 Radicación: 2021-216<br>Doc: ESCRITURA 475 del 2020-12-22 00:00:00  NOTARIA UNICA de MEDINA          VALOR ACTO: $<br/>ESPECIFICACION: 0904 ACTUALIZACION DE NOMENCLATURA EN CUANTO A LA VEREDA. (ACTUALIZACION DE NOMENCLATURA)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: GONZALEZ CARDONA JHON CARLOS   CC 86055085 X   ",
+        "ANOTACION: Nro 10 Fecha: 09-02-2021 Radicación: 2021-216<br>Doc: ESCRITURA 475 del 2020-12-22 00:00:00  NOTARIA UNICA de MEDINA          VALOR ACTO: $<br>    Se cancela anotación No: 7<br/>ESPECIFICACION: 0842 CANCELACION PROVIDENCIA ADMINISTRATIVA OFERTA DE COMPRA EN BIEN RURAL. (CANCELACION PROVIDENCIA ADMINISTRATIVA)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: AGENCIA NACIONAL DE INFRAESTRUCTURA   NIT. 8301259969       <br/>A: GONZALEZ CARDONA JHON CARLOS   CC 86055085 X   ",
+        "ANOTACION: Nro 11 Fecha: 09-02-2021 Radicación: 2021-216<br>Doc: ESCRITURA 475 del 2020-12-22 00:00:00  NOTARIA UNICA de MEDINA          VALOR ACTO: $17.553.804<br/>ESPECIFICACION: 0126 COMPRAVENTA PARCIAL DE 2.569,99 MTS2 (COMPRAVENTA PARCIAL)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GONZALEZ CARDONA JHON CARLOS      CC 86055085       <br/>A: AGENCIA NACIONAL DE INFRAESTRUCTURA   NIT. 8301259969       ",
+        "ANOTACION: Nro 12 Fecha: 09-02-2021 Radicación: 2021-216<br>Doc: ESCRITURA 475 del 2020-12-22 00:00:00  NOTARIA UNICA de MEDINA          VALOR ACTO: $<br/>ESPECIFICACION: 0913 DECLARACION PARTE RESTANTE CON AREA DE 28 HAS 8.732,20 MTS2 (DECLARACION PARTE RESTANTE)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: GONZALEZ CARDONA JHON CARLOS   CC 86055085 X   "
+    ],
+    "arbolAnotaciones": [
+        {
+            "label": "ACTUALIZACION DE NOMENCLATURA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 9",
+                    "children": [
+                        {
+                            "label": "Fecha: 09/02/2021"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2021-216"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 475 del 2020-12-22 00:00:00  NOTARIA UNICA de MEDINA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ACTUALIZACION DE NOMENCLATURA EN CUANTO A LA VEREDA. (ACTUALIZACION DE NOMENCLATURA)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: GONZALEZ CARDONA JHON CARLOS  <pre>      </pre>CC 86055085<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CESION DE CONTRATO",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 6",
+                    "children": [
+                        {
+                            "label": "Fecha: 02/02/2017"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: C2017-17"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 015 del 2017-02-02 00:00:00  NOTARIA UNICA DE MEDINA de MEDINA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CESION DE CONTRATO SERVIDUMBRE DE GASODUCTO Y TRANSITO, SEGUN E.P. 1574 DEL 27-08-1998 NOTARIA UNICA DE ACACIAS (CESION DE CONTRATO)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: TRANSPORTADORA DE GAS INTERNACIONAL S.A. E.S.P.<pre>      </pre>NIT. 9001344597<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CANCELACION PROVIDENCIA ADMINISTRATIVA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 10",
+                    "children": [
+                        {
+                            "label": "Fecha: 09/02/2021"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2021-216"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 475 del 2020-12-22 00:00:00  NOTARIA UNICA de MEDINA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CANCELACION PROVIDENCIA ADMINISTRATIVA OFERTA DE COMPRA EN BIEN RURAL. (CANCELACION PROVIDENCIA ADMINISTRATIVA)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: GONZALEZ CARDONA JHON CARLOS  <pre>      </pre>CC 86055085<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CANCELACION PROVIDENCIA JUDICIAL",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 8",
+                    "children": [
+                        {
+                            "label": "Fecha: 22/09/2020"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2020-1161"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 179 del 2020-09-22 00:00:00  JUZGADO 001  PROMISCUO  MUNICIPAL DE PARATEBUENO de PARATEBUENO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CANCELACION PROVIDENCIA JUDICIAL DEMANDA EN PROCESO DE SERVIDUMBRES (CANCELACION PROVIDENCIA JUDICIAL)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: MANRIQUE DWYER DANIEL  <pre>      </pre>CC 80198590<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: PAYAN LEAL VALENTINA  <pre>      </pre>CC 1020788819<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: ZULUAGA CARDONA JUAN GUILLERMO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "COMPRAVENTA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 1",
+                    "children": [
+                        {
+                            "label": "Fecha: 27/04/2009"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2009-838"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 4698 del 2005-12-07 00:00:00  NOTARIA TERCERA de VILLAVICENCIO"
+                        },
+                        {
+                            "label": "ValorActo: 50.000.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA  (COMPRAVENTA)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GOMEZ PINEDA LAUREANO  <pre>      </pre>CC 3292177<pre>      </pre>   DE: SIERRA DE GOMEZ MARIANA  <pre>      </pre>CC 21237126<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: PAYAN LEAL VALENTINA  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 2",
+                    "children": [
+                        {
+                            "label": "Fecha: 14/01/2015"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2015-42"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 5316 del 2014-12-20 00:00:00  NOTARIA TERCERA de VILLAVICENCIO"
+                        },
+                        {
+                            "label": "ValorActo: 9.000.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA  (COMPRAVENTA)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: PAYAN LEAL VALENTINA  <pre>      </pre>CC 1020788819<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: MANRIQUE DWYER DANIEL  <pre>      </pre>CC 80198590<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 5",
+                    "children": [
+                        {
+                            "label": "Fecha: 20/06/2017"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2017-1140"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1658 del 2017-04-28 00:00:00  NOTARIA PRIMERA de VILLAVICENCIO"
+                        },
+                        {
+                            "label": "ValorActo: 70.000.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA  (COMPRAVENTA)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: MANRIQUE DWYER DANIEL  <pre>      </pre>CC 80198590<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GONZALEZ CARDONA JHON CARLOS  <pre>      </pre>CC 86055085<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "DEMANDA EN PROCESO DE SERVIDUMBRES",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 4",
+                    "children": [
+                        {
+                            "label": "Fecha: 03/02/2017"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2017-179"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 646 del 2016-07-11 00:00:00  JUZGADO 001  PROMISCUO  MUNICIPAL DE PARATEBUENO de PARATEBUENO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "DEMANDA EN PROCESO DE SERVIDUMBRES (SOLICITUD ESPECIAL AVALUO DE PERJUICIOS DE SERVIDUMBRE PETROLERA # 255304089001-2016-00030-00. (DEMANDA EN PROCESO DE SERVIDUMBRES)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CENIT TRANSPORTE Y LOGISTICA DE HIDROCARBUROS S.A.S   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: MANRIQUE DWYER DANIEL  <pre>      </pre>CC 80198590<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: PAYAN LEAL VALENTINA  <pre>      </pre>CC 1020788819<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: ZULUAGA CARDONA JUAN GUILLERMO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "DECLARACION PARTE RESTANTE",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 12",
+                    "children": [
+                        {
+                            "label": "Fecha: 09/02/2021"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2021-216"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 475 del 2020-12-22 00:00:00  NOTARIA UNICA de MEDINA"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "DECLARACION PARTE RESTANTE CON AREA DE 28 HAS 8.732,20 MTS2 (DECLARACION PARTE RESTANTE)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: GONZALEZ CARDONA JHON CARLOS  <pre>      </pre>CC 86055085<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "COMPRAVENTA PARCIAL",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 11",
+                    "children": [
+                        {
+                            "label": "Fecha: 09/02/2021"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2021-216"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 475 del 2020-12-22 00:00:00  NOTARIA UNICA de MEDINA"
+                        },
+                        {
+                            "label": "ValorActo: 17.553.804"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA PARCIAL DE 2.569,99 MTS2 (COMPRAVENTA PARCIAL)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GONZALEZ CARDONA JHON CARLOS  <pre>      </pre>CC 86055085<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: AGENCIA NACIONAL DE INFRAESTRUCTURA<pre>      </pre>NIT. 8301259969<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "OFERTA DE COMPRA EN BIEN RURAL",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 7",
+                    "children": [
+                        {
+                            "label": "Fecha: 30/12/2019"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2019-2847"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO CVOE197392 del 2019-11-28 00:00:00  COVIORIENTE SAS de VILLAVICENCIO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "OFERTA DE COMPRA EN BIEN RURAL PARCIAL (OFERTA DE COMPRA EN BIEN RURAL)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: GONZALEZ CARDONA JHON CARLOS  <pre>      </pre>CC 86055085<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "SERVIDUMBRE DE TRANSITO PASIVA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 3",
+                    "children": [
+                        {
+                            "label": "Fecha: 16/09/1998"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: C2015-100"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 1574 del 1998-08-27 00:00:00  NOTARIA de ACACIAS"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "SERVIDUMBRE DE TRANSITO PASIVA DE OLEODUCTO"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: INVERSIONES CASTELLANO LIMITADA   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: EMPRESA COLOMBIANA DE PETROLEOS &quot;ECOPETROL&quot;   <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

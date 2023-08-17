@@ -1,0 +1,1495 @@
+{
+    "fecha": "04/07/2023",
+    "hora": "01:36 PM",
+    "numeroConsulta": "458470466",
+    "circulo": "132",
+    "numeroMatricula": "733",
+    "referenciaCatastral": "19698000100050098000",
+    "referenciaCatastralAnterior": "00-01-0005-0098-000",
+    "departamento": {
+        "id": "19",
+        "nombre": "CAUCA"
+    },
+    "municipio": {
+        "id": 19698,
+        "nombre": "SANTANDER DE QUILICHAO"
+    },
+    "vereda": "LA PALOMERA",
+    "direccion": "SIN DIRECCION EL CABUYO",
+    "direccionesAnteriores": [],
+    "fechaAperturaFolio": "30/07/1977",
+    "tipoInstrumento": "HOJAS DE CERTIFICADO",
+    "fechaInstrumento": "30/07/1977",
+    "estadoFolio": "ACTIVO",
+    "matriculasMatriz": [],
+    "matriculasDerivadas": [
+        "132-63408",
+        "132-64356"
+    ],
+    "tipoPredio": "R",
+    "propietarios": [
+        {
+            "nombre": "JUAN JOSE SANCHEZ TABARES ",
+            "tipoDocumento": {
+                "id": "CC",
+                "nombre": "CÉDULA CIUDADANIA"
+            },
+            "numeroDocumento": "1062330853",
+            "titular": "X"
+        }
+    ],
+    "linderos": "LOTE DE TERRENO UBICADO EN LA VEREDA DE RIO CHIQUITO LA PALOMERA. EN JURISDICCION DEL MUNICIPIO DE SANTANDER CC. CON UNA EXTENSION SUPERFICIARIA DE 5 HECTAREAS 1.200 MTS.2. COMPRENDIDO DENTRO DE LOS SIGUIENTES LINDEROS: \" ORIENTE, RIO CHIQUITO; NORTE, SANTIAGO SABINO RIVERA FERNNDEZ; OCCIDENTE, RAFAEL PENAGOS; SUR, HEREDEROS DE RICARDO ACOSTA.\"",
+    "salvedades": [
+        {
+            "numeroAnotacion": "0",
+            "numeroCorreccion": "1",
+            "fechaSalvedad": "26/09/2013",
+            "radicacionSalvedad": "2013-132-3-236",
+            "descripcion": "SE ACTUALIZA FICHA CATASTRAL CON LA SUMINISTRADA POR EL I.G.A.C., SEGUN RES. NO. 8589 DE 27-11-2008 PROFERIDA POR LA S.N.R (CONVENIO IGAC-SNR DE 23-09-2008)"
+        },
+        {
+            "numeroAnotacion": "2",
+            "numeroCorreccion": "1",
+            "radicacionAnotacion": "SN",
+            "fechaSalvedad": "17/02/2016",
+            "radicacionSalvedad": "2016-132-3-268",
+            "descripcion": "SE SUSPENDE LA X QUE INDICA DERECHOS REALES. YA QUE LAS VENTAS QUE SE HAN REALIZADO SON DE DERECHOS HERENCIALES LO QUE INDICA QUE ES UNA FALSA TRADICION. ESTO CON BASE EN CADA UNA DE LAS ESCRITURAS QUE ESTAN REGISTRADAS."
+        }
+    ],
+    "consulta": "458470495",
+    "textoAnotaciones": [
+        "ANOTACION: Nro 1 Fecha: 10-12-1980 Radicación: SN<br>Doc: ESCRITURA 146 DEL 1980-12-04 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 101 COMPRAVENTA  (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: TOBAR LORENZO             <br/>A: FERNANDEZ WALDO    X   ",
+        "ANOTACION: Nro 2 Fecha: 26-09-1961 Radicación: SN<br>Doc: ESCRITURA 185 DEL 1961-07-07 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 999 PARTICION EXTRAJUDICIAL DE DERECHOS SUCESORALES  (OTRO)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: LEMOS V. DE FERNANDEZ MARIA GUADALUPE             <br/>DE: RIVERA FERNANDEZ SANTIAGO             <br/>DE: RIVERA FERNANDEZ EMILIA             <br/>DE: RIVERA FERNANDEZ PABLO             <br/>A: LEMOS V. DE FERNANDEZ MARIA GUADALUPE       <br/>A: RIVERA FERNANDEZ SANTIAGO       <br/>A: RIVERA FERNANDEZ PABLO       <br/>A: RIVERA FERNANDEZ EMILIA       ",
+        "ANOTACION: Nro 3 Fecha: 22-09-1964 Radicación: SN<br>Doc: ESCRITURA 325 DEL 1964-08-22 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $3.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES CUERPO CIERTO(FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: FERNANDEZ DE RIVERA EMILIA             <br/>A: CASSO RIVERA MARCELINO       ",
+        "ANOTACION: Nro 4 Fecha: 18-08-1972 Radicación: SN<br>Doc: ESCRITURA 307 DEL 1972-07-12 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $5.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: RIVERA FERNANDEZ SANTIAGO SABINO             <br/>A: GUEJIA MEDINA AVELINO       <br/>A: GUEJIA DE GUEJIA ROSA MARIA       ",
+        "ANOTACION: Nro 5 Fecha: 15-10-1975 Radicación: SN<br>Doc: ESCRITURA 459 DEL 1975-09-13 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $4.500<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: RIVERA FERNANDEZ PABLO             o pedro pablo<br/>A: QUITUMBO QUIGUANAS NICOLAS       ",
+        "ANOTACION: Nro 6 Fecha: 30-07-1977 Radicación: SN<br>Doc: ESCRITURA 329 DEL 1977-05-28 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $5.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CASSO RIVERA MARCELINO             <br/>A: CASSO RIVERA GILBERTO       ",
+        "ANOTACION: Nro 7 Fecha: 30-07-1977 Radicación: 1977-132-6-847<br>Doc: ESCRITURA 330 DEL 1977-05-28 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $10.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CASSO RIVERA MARCELINO             <br/>A: CASSO RIVERA DIOMEDES       ",
+        "ANOTACION: Nro 8 Fecha: 05-01-1980 Radicación: 1980-132-6-15<br>Doc: ESCRITURA 886 DEL 1979-11-30 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $4.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: QUITUMBO QUIGUANAS NICOLAS             <br/>A: ZULUAGA GIRALDO OCTAVIO DE JESUS   CC 8217086    ",
+        "ANOTACION: Nro 9 Fecha: 18-06-1980 Radicación: 1980-132-6-809<br>Doc: ESCRITURA 341 DEL 1980-05-19 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $18.000<br/>ESPECIFICACION: 610 C/VENTA DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CASSO RIVERA DIOMEDES             <br/>A: CASSO RIVERA GILBERTO       ",
+        "ANOTACION: Nro 10 Fecha: 23-06-1982 Radicación: 1982-132-6-875<br>Doc: ESCRITURA 435 DEL 1982-06-16 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $10.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: ZULUAGA GIRALDO OCTAVIO DE JESUS      CC 8217086       <br/>A: GUEJIA MEDINA AVELINO       ",
+        "ANOTACION: Nro 11 Fecha: 26-06-1982 Radicación: 1982-132-6-899<br>Doc: ESCRITURA 432 DEL 1982-06-16 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $5.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: ZULUAGA GIRALDO OCTAVIO DE JESUS      CC 8217086       <br/>A: DELGADILLO DE MONTENEGRO MARIA LUDIVIA       ",
+        "ANOTACION: Nro 12 Fecha: 02-07-1986 Radicación: 1986-132-6-1224<br>Doc: ESCRITURA 687 DEL 1986-06-25 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $200.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: DELGADILLO DE MONTENEGRO MARIA LUDIVIA             <br/>A: CANAS MESTIZO MARIO   CC 4758104    ",
+        "ANOTACION: Nro 13 Fecha: 05-08-1986 Radicación: 1986-132-6-1515<br>Doc: ESCRITURA 888 DEL 1986-08-02 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $30.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GUEJIA MEDINA AVELINO             <br/>A: GUEJIA GUETIA JAIME       ",
+        "ANOTACION: Nro 14 Fecha: 28-03-1987 Radicación: 1987-132-6-605<br>Doc: ESCRITURA 349 DEL 1987-03-24 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $40.000<br/>ESPECIFICACION: 610 ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GUEJIA MEDINA AVELINO             <br/>A: DAGUA GUEJIA MATILDE   CC 34595367    ",
+        "ANOTACION: Nro 15 Fecha: 28-03-1987 Radicación: 1987-132-6-606<br>Doc: ESCRITURA 348 DEL 1987-03-24 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $60.000<br/>ESPECIFICACION: 610 VENTA DERECHOS GANANCIALES O HERENC. CUERPO CIERTO  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GUEJIA MEDINA AVELINO             <br/>A: GUEJIA GUETIA LEONARDO       ",
+        "ANOTACION: Nro 16 Fecha: 03-03-1995 Radicación: 1995-132-6-558<br>Doc: ESCRITURA 2505 DEL 1994-12-27 00:00:00  NOTARIA DE STDER DE QUILICHAO          VALOR ACTO: $602.000<br/>ESPECIFICACION: 999 ADJUDICACION DERECHOS SUCESORALES. LA LIQUIDACION NOTARIAL DE SUCESION (FALSA TRADICION)  (OTRO)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CASSO RIVERA GILBERTO             <br/>A: ULCUE DE CASO EMILIA       <br/>A: CASO ULCUE MARCELY       <br/>A: CASO ULCUE DARIO       <br/>A: CASO ULCUE JOSE EVER       <br/>A: CASO ULCUE GILBERTO       ",
+        "ANOTACION: Nro 17 Fecha: 07-02-1997 Radicación: 1997-132-6-280<br>Doc: OFICIO 084 DEL 1997-02-05 00:00:00  FISCALIA DE STDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 403 EMBARGO SOBRE DERECHOS SUCESORALES  (MEDIDA CAUTELAR)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: FISCALIA DE SANTANDER              <br/>A: GUETIA GUETIA LEONARDO       ",
+        "ANOTACION: Nro 18 Fecha: 22-01-2002 Radicación: 2002-132-6-136<br>Doc: ESCRITURA 7 DEL 2002-01-18 00:00:00  NOTARIA DE CALOTO (C)          VALOR ACTO: $2.200.000<br/>ESPECIFICACION: 610 VENTA DERECHOS GANANCIALES O HERENC. CUERPO CIERTO (FALSA TRADICION) (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: CANAS MESTIZO MARIO      CC 4758104       <br/>A: ERAZO HERNANDEZ LIBIA NILSA   CC 34602469    ",
+        "ANOTACION: Nro 19 Fecha: 01-11-2002 Radicación: 2002-132-6-2443<br>Doc: ESCRITURA 273 DEL 2002-10-04 00:00:00  NOTARIA DE CALOTO (C)          VALOR ACTO: $2.200.000<br/>ESPECIFICACION: 610 VENTA DERECHOS GANANCIALES O HERENC. CUERPO CIERTO DE 3 HAS. 5.000 MTS2 (FALSA TRADICION) (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: ERAZO HERNANDEZ LIBIA NILSA      CC 34602469       <br/>A: BARONA VELASCO FRANCISCO   CC 14431146    ",
+        "ANOTACION: Nro 20 Fecha: 31-12-2004 Radicación: 2004-132-6-3157<br>Doc: OFICIO 1470 DEL 2004-12-29 00:00:00  JUZGADO PRIMERO PENAL MUNICIPAL DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br>    Se cancela anotación No: 17<br/>ESPECIFICACION: 0767 CANCELACION EMBARGO PENAL  (CANCELACION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: FISCALIA GENERAL DE LA NACION              <br/>A: GUEGIA GUETIA LEONARDO       ",
+        "ANOTACION: Nro 21 Fecha: 24-08-2010 Radicación: 2010-132-6-2588<br>Doc: ESCRITURA 3293 DEL 2009-10-14 00:00:00  NOTARIA 8 DE CALI          VALOR ACTO: $3.503.000<br/>ESPECIFICACION: 0601 ADJUDICACION SUCESION DERECHOS Y ACCIONES  (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: BARONA VELASCO FRANCISCO      CC 14431146       -CAUSANTE-<br/>A: BARONA VIERA TULIO ANCIZAR   CC 16762177    <br/>A: BARONA VIERA CARLOS JULIO   CC 16770802    <br/>A: BARONA VIERA NIEVES EDITH   CC 31907483    <br/>A: VIERA ISAZA LUZMILA   CC 31939472    50%<br/>A: BARONA VIERA ALBA MARINA   CC 66821289    <br/>A: BARONA VIERA SOL MERY   CC 67001541    <br/>A: BARONA VIERA JHON JAIRO   CC 94399387    <br/>A: BARONA VIERA ANDRES   CC 94455537    ",
+        "ANOTACION: Nro 22 Fecha: 03-05-2012 Radicación: 2012-132-6-1292<br>Doc: ESCRITURA 90 DEL 2012-04-04 00:00:00  NOTARIA DE CALOTO          VALOR ACTO: $13.600.000<br/>ESPECIFICACION: 0607 COMPRAVENTA DERECHOS Y ACCIONES DE LO QUE LE CORRESPONDA O LE PUEDA CORRESPONDER DENTRO DEL PROCESO SUCESORAL. (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: BARONA VIERA TULIO ANCIZAR      CC 16762177       <br/>DE: BARONA VIERA NIEVES EDITH      CC 31907483       <br/>DE: VIERA ISAZA LUZMILA      CC 31939472       <br/>DE: BARONA VIERA ALBA MARINA      CC 66821289       <br/>DE: BARONA VIERA SOL MERY      CC 67001541       <br/>DE: BARONA VIERA JHON JAIRO      CC 94399387       <br/>DE: BARONA VIERA ANDRES      CC 94455537       <br/>A: VIERA ISAZA ORLANDO   CC 14989285    ",
+        "ANOTACION: Nro 23 Fecha: 07-11-2012 Radicación: 2012-132-6-3824<br>Doc: ESCRITURA 346 DEL 2012-10-06 00:00:00  NOTARIA DE CALOTO          VALOR ACTO: $5.000.000<br/>ESPECIFICACION: 0606 COMPRAVENTA DERECHOS GANANCIALES O HERENCIALES PARTE DE LO QUE LE CORRESPONDA O LE PUEDA CORRESPONDER DENTRO DEL PROCESO SUCESORAL DE WALDO FERNANDEZ (FALSA TRADICION) (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: VIERA ISAZA ORLANDO      CC 14989285       <br/>A: CASAMACHIN ANA LIGIA   CC 34613603    ",
+        "ANOTACION: Nro 24 Fecha: 14-06-2016 Radicación: 2016-132-6-2089<br>Doc: OFICIO 0824 DEL 2016-04-29 00:00:00  JUZGADO 002  CIVIL  MUNICIPAL DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0412 DEMANDA EN PROCESO DE PERTENENCIA RAD-19698400300220160010300 (MEDIDA CAUTELAR)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: DAGUA GUEJIA MATILDE      CC 34595367       <br/>A: WALDO FERNANDEZ Y DEMAS PERSONAS        ",
+        "ANOTACION: Nro 25 Fecha: 09-08-2016 Radicación: 2016-132-6-2852<br>Doc: ESCRITURA 251 DEL 2016-07-19 00:00:00  NOTARIA UNICA DE CALOTO          VALOR ACTO: $5.000.000<br/>ESPECIFICACION: 0607 COMPRAVENTA DERECHOS Y ACCIONES O HERENCIALES DE TODO LO QUE LE CORRESPONDA O LE PUEDA\nCORRESPONDER DENTRO DEL PROCESO SUCESORAL DE WALDO      \nFERNANDEZ (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: VIERA ISAZA ORLANDO      CC 14989285       <br/>A: RIVERA CARMEN ANYELIDE   CC 34601970    ",
+        "ANOTACION: Nro 26 Fecha: 06-09-2016 Radicación: 2016-132-6-3219<br>Doc: OFICIO 964 DEL 2016-08-31 00:00:00  JUZGADO 001 CIVIL MUNICIPAL DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0492 DEMANDA EN PROCESO VERBAL ESPECIAL DECLARACION DE PERTENENCIA RAD. 2016-00288 (MEDIDA CAUTELAR)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: GUEGIA GUETIA JAIME      CC 10480447       <br/>A: FENANDEZ WALDO    X   <br/>A: Y DEMAS PERSONAS INDETERMINADAS        ",
+        "ANOTACION: Nro 27 Fecha: 21-10-2016 Radicación: 2016-132-6-3818<br>Doc: SENTENCIA 134 DEL 2016-10-20 00:00:00  JUZGADO 002  CIVIL  MUNICIPAL DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br>    Se cancela anotación No: 24<br/>ESPECIFICACION: 0841 CANCELACION PROVIDENCIA JUDICIAL DE DEMANDA EN PROCESO ESPECIAL DE PERTENENCIA (CANCELACION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: DAGUA GUEJIA MATILDE      CC 34595367       <br/>A: WALDO FERNANDEZ Y DEMAS PERSONAS        ",
+        "ANOTACION: Nro 28 Fecha: 21-10-2016 Radicación: 2016-132-6-3818<br>Doc: SENTENCIA 134 DEL 2016-10-20 00:00:00  JUZGADO 002  CIVIL  MUNICIPAL DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0131 DECLARACION JUDICIAL DE PERTENENCIA POR PRESCRIPCION EXTRAORDINARIA, AREA DE 3.256M2. (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>A: DAGUA GUEJIA MATILDE   CC 34595367    ",
+        "ANOTACION: Nro 29 Fecha: 12-07-2017 Radicación: 2017-132-6-2442<br>Doc: SENTENCIA S/N DEL 2017-04-25 00:00:00  JUZGADO 001 CIVIL MUNICIPAL DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br>    Se cancela anotación No: 26<br/>ESPECIFICACION: 0841 CANCELACION PROVIDENCIA JUDICIAL DEMANDA (CANCELACION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: JUZGADO PRIMERO CIVIL DE SANTANDER DE QUILICHAO - CAUCA.              <br/>A: FERNANDEZ WALDO    X   <br/>A: DEMAS PERSONAS INDETERMINADAS        ",
+        "ANOTACION: Nro 30 Fecha: 12-07-2017 Radicación: 2017-132-6-2442<br>Doc: SENTENCIA S/N DEL 2017-04-25 00:00:00  JUZGADO 001 CIVIL MUNICIPAL DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0131 DECLARACION JUDICIAL DE PERTENENCIA PARCIAL DE UN AREA DE 7H. 4.596 M2. (MODO DE ADQUISICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: JUZGADO PRIMERO CIVIL MUNICIPAL DE SANTANDER DE QUILICHAO- CAUCA              <br/>A: GUEGIA GUETIA JAIME   CC 10480477    ",
+        "ANOTACION: Nro 31 Fecha: 18-10-2019 Radicación: 2019-132-6-3702<br>Doc: OFICIO 0235 DEL 2019-03-22 00:00:00  JUZGADO 002  CIVIL  MUNICIPAL DE SANTANDER DE QUILICHAO          VALOR ACTO: $<br/>ESPECIFICACION: 0492 DEMANDA EN PROCESO VERBAL TITULACION DE LA POSESION (MEDIDA CAUTELAR)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: SANCHEZ JOSE ENRIQUE      CC 10482331       <br/>A: WALDO FERNANDEZ Y DEMAS PERSONAS INDETERMINADAS        ",
+        "ANOTACION: Nro 32 Fecha: 25-11-2021 Radicación: 2021-132-6-4452<br>Doc: ESCRITURA 2507 DEL 2021-10-28 00:00:00 NOTARIA UNICA DE SANTANDER DE QUILICHAO          VALOR ACTO: $0<br/>ESPECIFICACION: 0607 COMPRAVENTA DERECHOS Y ACCIONES O HERENCIALES DE TODO LO QUE LE CORRESPONDA O LE PUEDA CORRESPONDER DENTRO DEL PROCESO SUCESORAL DE WALDO FERNANDEZ (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: RIVERA CARMEN ANYELIDE      CC 34601970       <br/>A: SUAREZ LUIS EDUARDO   CC 10487207    ",
+        "ANOTACION: Nro 33 Fecha: 12-12-2022 Radicación: 2022-132-6-5143<br>Doc: ESCRITURA 2721 DEL 2022-11-29 00:00:00 NOTARIA UNICA DE SANTANDER DE QUILICHAO          VALOR ACTO: $7.000.000<br/>ESPECIFICACION: 0607 COMPRAVENTA DERECHOS Y ACCIONES O HERENCIALES DE TODO LO QUE LE CORRESPONDA O LE PUEDA CORRESPONDER DENTRO DEL PROCESO SUCESORAL DE WALDO FERNANDEZ (FALSA TRADICION)<br/>PERSONAS QUE INTERVIENEN EN EL ACTO (X-Titular de derecho real de dominio,I-Titular de dominio incompleto)<br/>DE: SUAREZ LUIS EDUARDO      CC 10487207       <br/>A: SANCHEZ TABARES JUAN JOSE   CC 1062330853 X   "
+    ],
+    "arbolAnotaciones": [
+        {
+            "label": "DECLARACION JUDICIAL DE PERTENENCIA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 28",
+                    "children": [
+                        {
+                            "label": "Fecha: 21/10/2016"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2016-132-6-3818"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "SENTENCIA 134 DEL 2016-10-20 00:00:00  JUZGADO 002  CIVIL  MUNICIPAL DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "DECLARACION JUDICIAL DE PERTENENCIA POR PRESCRIPCION EXTRAORDINARIA, AREA DE 3.256M2. (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": ""
+                                },
+                                {
+                                    "label": "A: DAGUA GUEJIA MATILDE  <pre>      </pre>CC 34595367<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 30",
+                    "children": [
+                        {
+                            "label": "Fecha: 12/07/2017"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2017-132-6-2442"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "SENTENCIA S/N DEL 2017-04-25 00:00:00  JUZGADO 001 CIVIL MUNICIPAL DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "DECLARACION JUDICIAL DE PERTENENCIA PARCIAL DE UN AREA DE 7H. 4.596 M2. (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: JUZGADO PRIMERO CIVIL MUNICIPAL DE SANTANDER DE QUILICHAO- CAUCA   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUEGIA GUETIA JAIME  <pre>      </pre>CC 10480477<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "COMPRAVENTA DERECHOS GANANCIALES",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 23",
+                    "children": [
+                        {
+                            "label": "Fecha: 07/11/2012"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2012-132-6-3824"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 346 DEL 2012-10-06 00:00:00  NOTARIA DE CALOTO"
+                        },
+                        {
+                            "label": "ValorActo: 5.000.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA DERECHOS GANANCIALES O HERENCIALES PARTE DE LO QUE LE CORRESPONDA O LE PUEDA CORRESPONDER DENTRO DEL PROCESO SUCESORAL DE WALDO FERNANDEZ (FALSA TRADICION) (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: VIERA ISAZA ORLANDO  <pre>      </pre>CC 14989285<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASAMACHIN ANA LIGIA  <pre>      </pre>CC 34613603<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "EMBARGO POR JURISDICCION COACTIVA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 17",
+                    "children": [
+                        {
+                            "label": "Fecha: 07/02/1997"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1997-132-6-280"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 084 DEL 1997-02-05 00:00:00  FISCALIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "EMBARGO SOBRE DERECHOS SUCESORALES  (MEDIDA CAUTELAR)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: FISCALIA DE SANTANDER   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUETIA GUETIA LEONARDO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "SIN INFORMACION",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 2",
+                    "children": [
+                        {
+                            "label": "Fecha: 26/09/1961"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: SN"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 185 DEL 1961-07-07 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "PARTICION EXTRAJUDICIAL DE DERECHOS SUCESORALES  (OTRO)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: LEMOS V. DE FERNANDEZ MARIA GUADALUPE  <pre>      </pre><pre>      </pre>   DE: RIVERA FERNANDEZ SANTIAGO  <pre>      </pre><pre>      </pre>   DE: RIVERA FERNANDEZ EMILIA  <pre>      </pre><pre>      </pre>   DE: RIVERA FERNANDEZ PABLO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: LEMOS V. DE FERNANDEZ MARIA GUADALUPE  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: RIVERA FERNANDEZ SANTIAGO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: RIVERA FERNANDEZ PABLO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: RIVERA FERNANDEZ EMILIA  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 16",
+                    "children": [
+                        {
+                            "label": "Fecha: 03/03/1995"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1995-132-6-558"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 2505 DEL 1994-12-27 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 602.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ADJUDICACION DERECHOS SUCESORALES. LA LIQUIDACION NOTARIAL DE SUCESION (FALSA TRADICION)  (OTRO)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CASSO RIVERA GILBERTO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: ULCUE DE CASO EMILIA  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASO ULCUE MARCELY  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASO ULCUE DARIO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASO ULCUE JOSE EVER  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASO ULCUE GILBERTO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CANCELACION PROVIDENCIA JUDICIAL",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 27",
+                    "children": [
+                        {
+                            "label": "Fecha: 21/10/2016"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2016-132-6-3818"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "SENTENCIA 134 DEL 2016-10-20 00:00:00  JUZGADO 002  CIVIL  MUNICIPAL DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CANCELACION PROVIDENCIA JUDICIAL DE DEMANDA EN PROCESO ESPECIAL DE PERTENENCIA (CANCELACION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: DAGUA GUEJIA MATILDE  <pre>      </pre>CC 34595367<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: WALDO FERNANDEZ Y DEMAS PERSONAS   <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 29",
+                    "children": [
+                        {
+                            "label": "Fecha: 12/07/2017"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2017-132-6-2442"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "SENTENCIA S/N DEL 2017-04-25 00:00:00  JUZGADO 001 CIVIL MUNICIPAL DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CANCELACION PROVIDENCIA JUDICIAL DEMANDA (CANCELACION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: JUZGADO PRIMERO CIVIL DE SANTANDER DE QUILICHAO - CAUCA.   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: FERNANDEZ WALDO  <pre>      </pre><pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: DEMAS PERSONAS INDETERMINADAS   <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "CANCELACION EMBARGO PENAL",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 20",
+                    "children": [
+                        {
+                            "label": "Fecha: 31/12/2004"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2004-132-6-3157"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 1470 DEL 2004-12-29 00:00:00  JUZGADO PRIMERO PENAL MUNICIPAL DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "CANCELACION EMBARGO PENAL  (CANCELACION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: FISCALIA GENERAL DE LA NACION   <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUEGIA GUETIA LEONARDO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "ENAJENACION DERECHOS SUCESORALES CUERPO CIERTO",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 3",
+                    "children": [
+                        {
+                            "label": "Fecha: 22/09/1964"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: SN"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 325 DEL 1964-08-22 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 3.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES CUERPO CIERTO(FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: FERNANDEZ DE RIVERA EMILIA  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASSO RIVERA MARCELINO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 4",
+                    "children": [
+                        {
+                            "label": "Fecha: 18/08/1972"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: SN"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 307 DEL 1972-07-12 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 5.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: RIVERA FERNANDEZ SANTIAGO SABINO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUEJIA MEDINA AVELINO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUEJIA DE GUEJIA ROSA MARIA  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 5",
+                    "children": [
+                        {
+                            "label": "Fecha: 15/10/1975"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: SN"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 459 DEL 1975-09-13 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 4.500"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: RIVERA FERNANDEZ PABLO  <pre>      </pre><pre>      </pre>   o pedro pablo"
+                                },
+                                {
+                                    "label": "A: QUITUMBO QUIGUANAS NICOLAS  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 6",
+                    "children": [
+                        {
+                            "label": "Fecha: 30/07/1977"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: SN"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 329 DEL 1977-05-28 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 5.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CASSO RIVERA MARCELINO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASSO RIVERA GILBERTO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 7",
+                    "children": [
+                        {
+                            "label": "Fecha: 30/07/1977"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1977-132-6-847"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 330 DEL 1977-05-28 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 10.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CASSO RIVERA MARCELINO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASSO RIVERA DIOMEDES  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 8",
+                    "children": [
+                        {
+                            "label": "Fecha: 05/01/1980"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1980-132-6-15"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 886 DEL 1979-11-30 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 4.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: QUITUMBO QUIGUANAS NICOLAS  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: ZULUAGA GIRALDO OCTAVIO DE JESUS  <pre>      </pre>CC 8217086<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 9",
+                    "children": [
+                        {
+                            "label": "Fecha: 18/06/1980"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1980-132-6-809"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 341 DEL 1980-05-19 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 18.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "C/VENTA DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CASSO RIVERA DIOMEDES  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CASSO RIVERA GILBERTO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 10",
+                    "children": [
+                        {
+                            "label": "Fecha: 23/06/1982"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1982-132-6-875"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 435 DEL 1982-06-16 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 10.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: ZULUAGA GIRALDO OCTAVIO DE JESUS  <pre>      </pre>CC 8217086<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUEJIA MEDINA AVELINO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 11",
+                    "children": [
+                        {
+                            "label": "Fecha: 26/06/1982"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1982-132-6-899"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 432 DEL 1982-06-16 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 5.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: ZULUAGA GIRALDO OCTAVIO DE JESUS  <pre>      </pre>CC 8217086<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: DELGADILLO DE MONTENEGRO MARIA LUDIVIA  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 12",
+                    "children": [
+                        {
+                            "label": "Fecha: 02/07/1986"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1986-132-6-1224"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 687 DEL 1986-06-25 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 200.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: DELGADILLO DE MONTENEGRO MARIA LUDIVIA  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: CANAS MESTIZO MARIO  <pre>      </pre>CC 4758104<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 13",
+                    "children": [
+                        {
+                            "label": "Fecha: 05/08/1986"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1986-132-6-1515"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 888 DEL 1986-08-02 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 30.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GUEJIA MEDINA AVELINO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUEJIA GUETIA JAIME  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 14",
+                    "children": [
+                        {
+                            "label": "Fecha: 28/03/1987"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1987-132-6-605"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 349 DEL 1987-03-24 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 40.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ENAJENACION DERECHOS SUCESORALES (FALSA TRADICION)  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GUEJIA MEDINA AVELINO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: DAGUA GUEJIA MATILDE  <pre>      </pre>CC 34595367<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 15",
+                    "children": [
+                        {
+                            "label": "Fecha: 28/03/1987"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 1987-132-6-606"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 348 DEL 1987-03-24 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 60.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA DERECHOS GANANCIALES O HERENC. CUERPO CIERTO  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GUEJIA MEDINA AVELINO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: GUEJIA GUETIA LEONARDO  <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 18",
+                    "children": [
+                        {
+                            "label": "Fecha: 22/01/2002"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2002-132-6-136"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 7 DEL 2002-01-18 00:00:00  NOTARIA DE CALOTO (C)"
+                        },
+                        {
+                            "label": "ValorActo: 2.200.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA DERECHOS GANANCIALES O HERENC. CUERPO CIERTO (FALSA TRADICION) (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: CANAS MESTIZO MARIO  <pre>      </pre>CC 4758104<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: ERAZO HERNANDEZ LIBIA NILSA  <pre>      </pre>CC 34602469<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 19",
+                    "children": [
+                        {
+                            "label": "Fecha: 01/11/2002"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2002-132-6-2443"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 273 DEL 2002-10-04 00:00:00  NOTARIA DE CALOTO (C)"
+                        },
+                        {
+                            "label": "ValorActo: 2.200.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "VENTA DERECHOS GANANCIALES O HERENC. CUERPO CIERTO DE 3 HAS. 5.000 MTS2 (FALSA TRADICION) (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: ERAZO HERNANDEZ LIBIA NILSA  <pre>      </pre>CC 34602469<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BARONA VELASCO FRANCISCO  <pre>      </pre>CC 14431146<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "COMPRAVENTA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 1",
+                    "children": [
+                        {
+                            "label": "Fecha: 10/12/1980"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: SN"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 146 DEL 1980-12-04 00:00:00  NOTARIA DE STDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA  (MODO DE ADQUISICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: TOBAR LORENZO  <pre>      </pre><pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: FERNANDEZ WALDO  <pre>      </pre><pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "DEMANDA EN PROCESO VERBAL",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 26",
+                    "children": [
+                        {
+                            "label": "Fecha: 06/09/2016"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2016-132-6-3219"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 964 DEL 2016-08-31 00:00:00  JUZGADO 001 CIVIL MUNICIPAL DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "DEMANDA EN PROCESO VERBAL ESPECIAL DECLARACION DE PERTENENCIA RAD. 2016-00288 (MEDIDA CAUTELAR)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: GUEGIA GUETIA JAIME  <pre>      </pre>CC 10480447<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: FENANDEZ WALDO  <pre>      </pre><pre>      </pre>X   "
+                                },
+                                {
+                                    "label": "A: Y DEMAS PERSONAS INDETERMINADAS   <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 31",
+                    "children": [
+                        {
+                            "label": "Fecha: 18/10/2019"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2019-132-6-3702"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 0235 DEL 2019-03-22 00:00:00  JUZGADO 002  CIVIL  MUNICIPAL DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "DEMANDA EN PROCESO VERBAL TITULACION DE LA POSESION (MEDIDA CAUTELAR)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: SANCHEZ JOSE ENRIQUE  <pre>      </pre>CC 10482331<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: WALDO FERNANDEZ Y DEMAS PERSONAS INDETERMINADAS   <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "COMPRAVENTA DERECHOS Y ACCIONES",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 22",
+                    "children": [
+                        {
+                            "label": "Fecha: 03/05/2012"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2012-132-6-1292"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 90 DEL 2012-04-04 00:00:00  NOTARIA DE CALOTO"
+                        },
+                        {
+                            "label": "ValorActo: 13.600.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA DERECHOS Y ACCIONES DE LO QUE LE CORRESPONDA O LE PUEDA CORRESPONDER DENTRO DEL PROCESO SUCESORAL. (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: BARONA VIERA TULIO ANCIZAR  <pre>      </pre>CC 16762177<pre>      </pre>   DE: BARONA VIERA NIEVES EDITH  <pre>      </pre>CC 31907483<pre>      </pre>   DE: VIERA ISAZA LUZMILA  <pre>      </pre>CC 31939472<pre>      </pre>   DE: BARONA VIERA ALBA MARINA  <pre>      </pre>CC 66821289<pre>      </pre>   DE: BARONA VIERA SOL MERY  <pre>      </pre>CC 67001541<pre>      </pre>   DE: BARONA VIERA JHON JAIRO  <pre>      </pre>CC 94399387<pre>      </pre>   DE: BARONA VIERA ANDRES  <pre>      </pre>CC 94455537<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: VIERA ISAZA ORLANDO  <pre>      </pre>CC 14989285<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 25",
+                    "children": [
+                        {
+                            "label": "Fecha: 09/08/2016"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2016-132-6-2852"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 251 DEL 2016-07-19 00:00:00  NOTARIA UNICA DE CALOTO"
+                        },
+                        {
+                            "label": "ValorActo: 5.000.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA DERECHOS Y ACCIONES O HERENCIALES DE TODO LO QUE LE CORRESPONDA O LE PUEDA\nCORRESPONDER DENTRO DEL PROCESO SUCESORAL DE WALDO      \nFERNANDEZ (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: VIERA ISAZA ORLANDO  <pre>      </pre>CC 14989285<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: RIVERA CARMEN ANYELIDE  <pre>      </pre>CC 34601970<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 32",
+                    "children": [
+                        {
+                            "label": "Fecha: 25/11/2021"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2021-132-6-4452"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 2507 DEL 2021-10-28 00:00:00 NOTARIA UNICA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 0"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA DERECHOS Y ACCIONES O HERENCIALES DE TODO LO QUE LE CORRESPONDA O LE PUEDA CORRESPONDER DENTRO DEL PROCESO SUCESORAL DE WALDO FERNANDEZ (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: RIVERA CARMEN ANYELIDE  <pre>      </pre>CC 34601970<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: SUAREZ LUIS EDUARDO  <pre>      </pre>CC 10487207<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "label": "Anotaci&oacute;n Nro: 33",
+                    "children": [
+                        {
+                            "label": "Fecha: 12/12/2022"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2022-132-6-5143"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 2721 DEL 2022-11-29 00:00:00 NOTARIA UNICA DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: 7.000.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "COMPRAVENTA DERECHOS Y ACCIONES O HERENCIALES DE TODO LO QUE LE CORRESPONDA O LE PUEDA CORRESPONDER DENTRO DEL PROCESO SUCESORAL DE WALDO FERNANDEZ (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: SUAREZ LUIS EDUARDO  <pre>      </pre>CC 10487207<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: SANCHEZ TABARES JUAN JOSE  <pre>      </pre>CC 1062330853<pre>      </pre>X   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "ADJUDICACION SUCESION DERECHOS Y ACCIONES",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 21",
+                    "children": [
+                        {
+                            "label": "Fecha: 24/08/2010"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2010-132-6-2588"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "ESCRITURA 3293 DEL 2009-10-14 00:00:00  NOTARIA 8 DE CALI"
+                        },
+                        {
+                            "label": "ValorActo: 3.503.000"
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "ADJUDICACION SUCESION DERECHOS Y ACCIONES  (FALSA TRADICION)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: BARONA VELASCO FRANCISCO  <pre>      </pre>CC 14431146<pre>      </pre>   -CAUSANTE-"
+                                },
+                                {
+                                    "label": "A: BARONA VIERA TULIO ANCIZAR  <pre>      </pre>CC 16762177<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BARONA VIERA CARLOS JULIO  <pre>      </pre>CC 16770802<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BARONA VIERA NIEVES EDITH  <pre>      </pre>CC 31907483<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: VIERA ISAZA LUZMILA  <pre>      </pre>CC 31939472<pre>      </pre>   50%"
+                                },
+                                {
+                                    "label": "A: BARONA VIERA ALBA MARINA  <pre>      </pre>CC 66821289<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BARONA VIERA SOL MERY  <pre>      </pre>CC 67001541<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BARONA VIERA JHON JAIRO  <pre>      </pre>CC 94399387<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: BARONA VIERA ANDRES  <pre>      </pre>CC 94455537<pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "DEMANDA EN PROCESO DE PERTENENCIA",
+            "children": [
+                {
+                    "label": "Anotaci&oacute;n Nro: 24",
+                    "children": [
+                        {
+                            "label": "Fecha: 14/06/2016"
+                        },
+                        {
+                            "label": "Radicaci&oacute;n: 2016-132-6-2089"
+                        },
+                        {
+                            "label": "Documento: "
+                        },
+                        {
+                            "label": "OFICIO 0824 DEL 2016-04-29 00:00:00  JUZGADO 002  CIVIL  MUNICIPAL DE SANTANDER DE QUILICHAO"
+                        },
+                        {
+                            "label": "ValorActo: "
+                        },
+                        {
+                            "label": "Comentarios",
+                            "children": [
+                                {
+                                    "label": "DEMANDA EN PROCESO DE PERTENENCIA RAD-19698400300220160010300 (MEDIDA CAUTELAR)"
+                                }
+                            ]
+                        },
+                        {
+                            "label": "Personas que Intervienen en el acto",
+                            "children": [
+                                {
+                                    "label": "DE: DAGUA GUEJIA MATILDE  <pre>      </pre>CC 34595367<pre>      </pre>   "
+                                },
+                                {
+                                    "label": "A: WALDO FERNANDEZ Y DEMAS PERSONAS   <pre>      </pre><pre>      </pre>   "
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
