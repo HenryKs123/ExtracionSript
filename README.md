@@ -6,11 +6,15 @@ Este script en Python extrae los códigos de las especificaciones de anotaciones
 
 1. Asegúrate de tener Python instalado en tu computadora y un entorno de trabajo en mi caso para este punto se uso jupiterLab.
 
-2. Coloca tu archivo `predio.json` en esta carpeta los archivos que se piensan tratar.
+2. descarga la libreria unide code de la siguiente manera pip install unidecode
 
-3. Ejecuta el script `main.py` usando el siguiente comando en la terminal: python main.py
+3. Coloca tu archivo `predio.json` en esta carpeta los archivos que se piensan tratar.
 
-4. Los códigos de las especificaciones serán impresos en la consola.
+4. Ejecuta el script `main.py` usando el siguiente comando en la terminal: python main.py
+
+5. Los códigos de las especificaciones serán impresos en la consola.
+
+6. Antes de utilizar asegurate que los Json no se encuentren danados o que contengan caracteres especiales 
 
 ## Archivo predio.json
 
